@@ -51,6 +51,7 @@ const PowerBIDashboard = () => {
               src="/files/Dashboard.jpeg"
               alt="Power BI Sales Performance Dashboard Preview"
               className="w-full h-full object-cover object-top"
+            
             />
           </div>
         </motion.div>
