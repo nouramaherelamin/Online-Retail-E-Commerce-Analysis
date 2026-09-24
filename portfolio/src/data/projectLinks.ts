@@ -11,7 +11,7 @@ export const projectLinks = {
 
   social: {
     github: 'https://github.com/NouraMaher',
-    githubRepo: 'https://github.com/NouraMaher/E-Commerce-Sales-Customer-Analysis',
+    githubRepo: 'https://github.com/nouramaherelamin/Online-Retail-E-Commerce-Analysis',
     linkedin: 'https://www.linkedin.com/in/nouramaherelamin/',
   },
 };
